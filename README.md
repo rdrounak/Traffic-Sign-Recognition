@@ -66,7 +66,7 @@ If you wish to train your own CNN model or fine-tune the existing model, you can
 
 ## Credits
 
-This project is developed by [Rounak Dwary]. It is based on deep learning techniques and libraries provided by the open-source community.
+This project is developed by Rounak Dwary. It is based on deep learning techniques and libraries provided by the open-source community.
 
 
 ## Acknowledgments
